@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Adelson&#x27;s Pizza",
+    "description": "",
+    "home_page_url": "https://adelson11.github.io/pb-pages",
+    "feed_url": "https://adelson11.github.io/pb-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "addelson DaSilva"
+    },
+    "items": [
+        {
+            "id": "https://adelson11.github.io/pb-pages/teste-adm.html",
+            "url": "https://adelson11.github.io/pb-pages/teste-adm.html",
+            "title": "TESTE ADM",
+            "summary": "sdfasdfasdfsdfasdfasdfasdfasdfasdfasdfasdf",
+            "content_html": "sdfas<img class=\"post__image\" src=\"https://adelson11.github.io/pb-pages/media/posts/1/mutlei.jpg\" alt=\"\" width=\"126\" height=\"180\">dfasdfsdfasdfasdfasdfasdfasdfasdfasdf",
+            "author": {
+                "name": "addelson DaSilva"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-11T09:29:40-03:00",
+            "date_modified": "2019-07-11T14:42:12-03:00"
+        }
+    ]
+}
